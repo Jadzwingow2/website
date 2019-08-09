@@ -9,19 +9,26 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Jadźwingów2.pl</title>
+
+    <style type="css">
+        body,html {
+        height: 100%;
+        }
+    </style>
   </head>
-  <body style="width: 100%; height: 100%;">
+  <body>
+        <div class="container-fluid">   
+                <iframe id="forum_embed"
+                src="javascript:void(0)"
+                scrolling="no"
+                frameborder="0"
+                width="100%"
+                height="100%">
+              </iframe>
+</div>
 
-    <iframe id="forum_embed"
-    src="javascript:void(0)"
-    scrolling="no"
-    frameborder="0"
-    width="100%"
-    height="100%">
-  </iframe>
 
 
-  
   <script type="text/javascript">
     document.getElementById('forum_embed').src =
        'https://groups.google.com/forum/embed/?place=forum/najadzwingow'
