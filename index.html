@@ -26,16 +26,28 @@
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/6.3.5/firebase-app.js"></script>
 
-    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#config-web-app -->
+
     <script>
-      var OneSignal = window.OneSignal || [];
-      OneSignal.push(function() {
-        OneSignal.init({
-          appId: "9ef3c256-0c75-46f5-b6d0-465f9bc1ff6d",
-        });
-      });
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyBdg4uK_swGT9GR9qlipaSnhczd94Jwp3w",
+        authDomain: "jadzwingow-2.firebaseapp.com",
+        databaseURL: "https://jadzwingow-2.firebaseio.com",
+        projectId: "jadzwingow-2",
+        storageBucket: "",
+        messagingSenderId: "859751739483",
+        appId: "1:859751739483:web:3b3b9e120a57d3d9"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
     </script>
+
+
 
   </head>
   <body style="height: 100%">
