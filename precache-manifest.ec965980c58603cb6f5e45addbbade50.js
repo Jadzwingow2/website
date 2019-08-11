@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/js/about.438f1f7a.js"
   },
   {
-    "revision": "8dbb06ba5a22c5d3dc74",
-    "url": "/js/app.5919a3e6.js"
+    "revision": "a9edf4b6dc8907c6b250",
+    "url": "/js/app.36176509.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/img/ms-icon-70x70.png"
   },
   {
-    "revision": "73ad51cbb2c91fdaa0ca52e5c86e315a",
+    "revision": "b46504881f4dffb2e4922131d6184967",
     "url": "/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/img/ms-icon-310x310.png"
   },
   {
-    "revision": "c25633536edc98ff44beac7d854f924d",
-    "url": "/img/android-icon-144x144.png"
+    "revision": "be59afcde25a340a8879",
+    "url": "/css/chunk-vendors.ac52170f.css"
   },
   {
     "revision": "233cf5c9564758c1a05ffeba29ac017c",
@@ -69,7 +69,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "de0620503fc3888948289432ec885559",
-    "url": "/img/apple-icon.png"
+    "url": "/img/apple-icon-precomposed.png"
   },
   {
     "revision": "eddff6f3b8a8d1eacadf58dd4e2c8d7d",
@@ -77,7 +77,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "de0620503fc3888948289432ec885559",
-    "url": "/img/apple-icon-precomposed.png"
+    "url": "/img/apple-icon.png"
   },
   {
     "revision": "8e6d22859f82817fa3a2efdcc3bc602a",
@@ -86,6 +86,10 @@ self.__precacheManifest = [
   {
     "revision": "b6ae93c26ee2824ffc943729aaac8fc0",
     "url": "/img/android-icon-72x72.png"
+  },
+  {
+    "revision": "c25633536edc98ff44beac7d854f924d",
+    "url": "/img/ms-icon-144x144.png"
   },
   {
     "revision": "efdfc13eae202c6cd3eeee14b439e15f",
@@ -108,10 +112,6 @@ self.__precacheManifest = [
     "url": "/img/apple-icon-180x180.png"
   },
   {
-    "revision": "c25633536edc98ff44beac7d854f924d",
-    "url": "/img/ms-icon-144x144.png"
-  },
-  {
     "revision": "69770fc270078c847e0cf447584b39a0",
     "url": "/img/android-icon-36x36.png"
   },
@@ -120,11 +120,11 @@ self.__precacheManifest = [
     "url": "/img/android-icon-192x192.png"
   },
   {
-    "revision": "be59afcde25a340a8879",
-    "url": "/css/chunk-vendors.ac52170f.css"
+    "revision": "c25633536edc98ff44beac7d854f924d",
+    "url": "/img/android-icon-144x144.png"
   },
   {
-    "revision": "8dbb06ba5a22c5d3dc74",
+    "revision": "a9edf4b6dc8907c6b250",
     "url": "/css/app.c48a7704.css"
   },
   {
