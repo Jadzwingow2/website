@@ -7,12 +7,9 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87",
- "serviceworker": {
-  "src": "./serviceworker.js",
-  "scope": "/app",
-  "type": "",
-  "update_via_cache": "none"
- },
+  "serviceworker": {
+    "src": "./service-worker.js"
+  },
   "icons": [
     {
       "src": "\/img\/android-icon-36x36.png",
