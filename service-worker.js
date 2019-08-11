@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.991eb33e715d5f6ba6d603fd02a18acb.js"
+  "/precache-manifest.aa29e041563eb7983cc20ef3218022f0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "repage"});
