@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "7809e7e6de5200c275fce6cb772a5a71",
-    "url": "/img/favicon-32x32.png"
+    "revision": "eddff6f3b8a8d1eacadf58dd4e2c8d7d",
+    "url": "/img/favicon-96x96.png"
   },
   {
     "revision": "077d2a7466ce849af0ac",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.75adf070.js"
   },
   {
-    "revision": "73bdca226fdd2e01ff8994d86b431440",
-    "url": "/img/ms-icon-70x70.png"
+    "revision": "e871a616396e45bd7fd1cc0f126b3366",
+    "url": "/README.md"
   },
   {
     "revision": "b46504881f4dffb2e4922131d6184967",
     "url": "/index.html"
   },
   {
-    "revision": "e871a616396e45bd7fd1cc0f126b3366",
-    "url": "/README.md"
+    "revision": "73bdca226fdd2e01ff8994d86b431440",
+    "url": "/img/ms-icon-70x70.png"
   },
   {
     "revision": "dd4454a73c47b9983f9b7fa9416d5938",
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/img/apple-icon-precomposed.png"
   },
   {
-    "revision": "eddff6f3b8a8d1eacadf58dd4e2c8d7d",
-    "url": "/img/favicon-96x96.png"
+    "revision": "7809e7e6de5200c275fce6cb772a5a71",
+    "url": "/img/favicon-32x32.png"
   },
   {
     "revision": "de0620503fc3888948289432ec885559",
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/img/ms-icon-144x144.png"
   },
   {
-    "revision": "efdfc13eae202c6cd3eeee14b439e15f",
-    "url": "/img/apple-icon-114x114.png"
-  },
-  {
     "revision": "1cdc287905c5c6596d795143dff71925",
     "url": "/img/apple-icon-120x120.png"
+  },
+  {
+    "revision": "efdfc13eae202c6cd3eeee14b439e15f",
+    "url": "/img/apple-icon-114x114.png"
   },
   {
     "revision": "c25633536edc98ff44beac7d854f924d",
